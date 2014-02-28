@@ -1,4 +1,3 @@
-
 Power saving
 
 http://gadgetmakersblog.com/power-consumption-arduinos-atmega328-microcontroller/
